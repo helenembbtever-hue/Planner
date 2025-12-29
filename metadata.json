@@ -1,0 +1,7 @@
+{
+  "name": "Zenith - Personal Life OS",
+  "description": "A comprehensive personal productivity suite featuring daily/weekly/monthly planning, habit tracking, vision boards, goal management, and an AI-enhanced journal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
